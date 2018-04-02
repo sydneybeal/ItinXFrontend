@@ -1,0 +1,42 @@
+.TravelBeyond {
+  color: white;
+  background-color: #8B8883;
+}
+.container{
+  padding-top: 10%;
+  padding-left: 10%;
+  margin:auto;
+}
+
+.logo{
+  padding-top: 5%;
+  padding-left: 5%;
+}
+.logoimg{
+  width: 25%;
+}
+.tds{
+  margin: 5%;
+}
+.formInput{
+  color: black;
+}
+.proposal-head{
+  padding-bottom: 10%;
+}
+.guibutton{
+  border: 0;
+  padding: 3px;
+  margin: 5px;
+  font-size: 18px;
+  background: #0E9BAC;
+  color: white;
+
+}
+.segment{
+margin: 3vh;
+border: 2px dashed;
+border-radius: 1em;
+padding: 2vh;
+color: black;
+}
